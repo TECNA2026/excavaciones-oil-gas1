@@ -1,1 +1,1 @@
-# excavaciones-oil-gas1
+# Curso completo de excavaciones para GitHub Pages
